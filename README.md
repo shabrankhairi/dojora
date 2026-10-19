@@ -1,13 +1,19 @@
 <div align="center">
 
-# ◎ Dojora
+<img src="assets/dojora-mark.png" alt="Dojora" width="76" />
 
-**Self-hosted web-app security training range — red & blue, on your own infra.**
+# Dojora
 
-Spin up isolated, intentionally-vulnerable targets and a live in-browser attacker box.
-Hack, capture the flag, and auto-verify. 27 hand-built challenges across two tracks.
+![version](https://img.shields.io/badge/version-v4.6-E08A3C)
+![platform](https://img.shields.io/badge/platform-Linux-555555)
+![license](https://img.shields.io/badge/license-Proprietary%20Freeware-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791)
+![Docker](https://img.shields.io/badge/Docker-required-2496ED)
+![challenges](https://img.shields.io/badge/challenges-64-E08A3C)
 
-*Freeware · runs on Docker · not open source*
+**Dojora** is a self-hosted web-application security training range for **red, blue and purple teams** — spin up isolated, intentionally-vulnerable targets and a live in-browser attacker box, hack, capture the flag, and auto-verify, all on your own infrastructure.
+
+*Freeware · runs on Docker · not open source · part of Lutpod*
 
 </div>
 
